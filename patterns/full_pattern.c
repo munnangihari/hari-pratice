@@ -12,14 +12,7 @@ int main()
 		}
 		for(k = 1; k <= 2 * i - 1; k++)
 		{
-		if(k == 1 || k == 2 * i - 1 || i == n)
-		{
 			printf("*");
-		}
-		else
-		{
-			printf(" ");
-		}
 		}
 		printf("\n");
 	}
