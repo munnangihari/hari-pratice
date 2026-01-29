@@ -7,5 +7,5 @@ references links : https://docs.qualcomm.com/doc/80-58740-1/topic/gpio.html#aria
 
 DATE:29-01-2026
 
-->Today i was completed dht11 sensor by using i2c protocol
+->Today i was completed dht11 sensor 
 ->I was tried to tansmit the data between to microcontrollers by using uart protocol, but it was not done 
