@@ -14,6 +14,13 @@ Date:30-01-2026
 -> Tried to print hello world in minicom via ttl.
 ->Today i have tried to display data of RTC module (ds1307) on LCD, but i have not get the proper output.
 
+
 Date:31-01-2026
 
 -> Interfaced the RTC module (DS1307) and transmitted time data through UART using TTL-level communication.
+
+
+Date:01-02-2026
+
+-> Interfaced the RTC module, AQI sensor, DHT11 sensor transmitted data through UART TTL- level communication.
+-> tried to display sensor data in OLED.
