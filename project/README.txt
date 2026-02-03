@@ -20,7 +20,12 @@ Date:31-01-2026
 -> Interfaced the RTC module (DS1307) and transmitted time data through UART using TTL-level communication.
 
 
-Date:01-02-2026
+Date:02-02-2026
 
 -> Interfaced the RTC module, AQI sensor, DHT11 sensor transmitted data through UART TTL- level communication.
 -> tried to display sensor data in OLED.
+
+Date:03-02-2026
+
+-> completed displaying data of dht11, AQI sensor on oled. 
+-> tried to communicate between two boards via spi.
