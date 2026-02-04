@@ -29,3 +29,7 @@ Date:03-02-2026
 
 -> completed displaying data of dht11, AQI sensor on oled. 
 -> tried to communicate between two boards via spi.
+
+Date:04-02-2026
+
+-> completed board to board communication by using spi protocol.
