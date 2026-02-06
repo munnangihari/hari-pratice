@@ -33,3 +33,8 @@ Date:03-02-2026
 Date:04-02-2026
 
 -> completed board to board communication by using spi protocol.
+
+DAte:06-02-2026
+
+-> morning i practiced c coding.
+-> from afternoon i tried to write baremetal code for gpio. 
