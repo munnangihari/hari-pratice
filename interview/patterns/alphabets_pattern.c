@@ -1,21 +1,23 @@
 #include <stdio.h>
+
 int main() {
-	int i, j;
+	int i, j, k;
 	int n;
 	printf("enter the number\n");
 	scanf("%d", &n);
+
 	for(i = 1; i <= n; i++) {
-	
-		for(j = 1; j <= n - i; j++) {
+
+		for(j = i; j < n; j++) {
 			printf("  ");
 		}
 
-		for(j = 0; j < i; j++) {
-			printf("%c ", 'A' + j);
+		for(k = 0; k < i; k++) {
+			printf("%c ", 'A' + k);
 		}
 
-		for(j = i - 2; j >= 0; j--) {
-			printf("%c ", 'A' + j);
+		for(k = i - 2; k >= 0; k--) {
+			printf("%c ", 'A' + k);
 		}
 
 		printf("\n");
